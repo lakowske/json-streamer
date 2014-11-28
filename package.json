@@ -1,0 +1,27 @@
+{
+  "name": "json-streamer",
+  "version": "0.0.1",
+  "description": "Emits JSON data and drops non JSON data from a stream.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lakowske/json-streamer.git"
+  },
+  "keywords": [
+    "jsom",
+    "stream",
+    "filter"
+  ],
+  "author": "Seth Lakowske",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/lakowske/json-streamer/issues"
+  },
+  "homepage": "https://github.com/lakowske/json-streamer",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}
