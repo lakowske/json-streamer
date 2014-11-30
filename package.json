@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/lakowske/json-streamer",
   "devDependencies": {
+    "stream-write-test": "git://github.com/lakowske/stream-write-test.git",
     "tape": "^3.0.3"
   }
 }
