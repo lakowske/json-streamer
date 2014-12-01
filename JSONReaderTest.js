@@ -1,8 +1,5 @@
 var test = require('tape');
 var JSONReader = require('./index');
-var Transform = require('stream').Transform;
-var Writable = require('stream').Writable;
-var util = require('util');
 var WriteTest = require('stream-write-test');
 
 test('json reader test', function(t) {
